@@ -2,7 +2,7 @@
 
 A fun **UWP (Universal Windows Platform)** demo app built with **C# and XAML** that displays your **webcam feed** and overlays an animated, moving **Pac-Man** character that opens and closes its mouth while gliding back and forth across the screen.
 
-https://github.com/<your-username>/PacMan-Video-UWP-AR-Demo
+[https://github.com/<your-username>/PacMan-Video-UWP-AR-Demo](https://github.com/z1000biker/UWP-Demo-AR-Pacman/blob/master)
 
 ---
 
