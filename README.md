@@ -45,7 +45,9 @@ When launched, your webcam activates and Pac-Man appears at the upper-left corne
 ⚙️ Project Structure
 
 App1/
+
 │
+
 ├── MainPage.xaml              # UI layout with camera and overlay
 
 ├── MainPage.xaml.cs           # App logic + Pac-Man animation
