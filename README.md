@@ -47,9 +47,13 @@ When launched, your webcam activates and Pac-Man appears at the upper-left corne
 App1/
 │
 ├── MainPage.xaml              # UI layout with camera and overlay
+
 ├── MainPage.xaml.cs           # App logic + Pac-Man animation
+
 ├── App.xaml / App.xaml.cs     # UWP app entry point
+
 └── Assets/                    # (optional) icons, demo media
+
 🧠 How It Works
 The app uses UWP’s MediaCapture API to show a live webcam feed inside a CaptureElement.
 On top of that, a Canvas hosts a PathGeometry Pac-Man shape, drawn mathematically as a circle with a wedge-mouth.
