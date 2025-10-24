@@ -29,7 +29,7 @@ PathGeometry	Procedural Pac-Man drawing
 Clone this repository
 
 
-git clone https://github.com/<your-username>/PacMan-Video-UWP-AR-Demo.git
+git clone  https://github.com//PacMan-Video-UWP-AR-Demo.git
 Open the solution in Visual Studio 2026 (or 2022+)
 
 Ensure UWP workload and Windows 11 SDK (10.0.22621+) are installed
